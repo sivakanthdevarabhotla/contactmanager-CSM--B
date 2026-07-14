@@ -23,7 +23,7 @@ function ContactDetails() {
                 <div className="avatar">
                     {contact.profileImage ? (
                         <img
-                            src={`https://contactmanager-csm-b.onrender.com${contact.profileImage}`}
+                            src={`https://https://contactmanager-csm-b.onrender.com${contact.profileImage}`}
                             alt={contact.name}
                             className="avatar-image"
                         />
